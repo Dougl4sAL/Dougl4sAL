@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💻 Graduando em Ciência da Computação - 3º período;<br>🏫 Instituto Federal de Sergipe;<br>⭐ Entusiasta da tecnologia;<br>📚 Desenvolvendo um futuro melhor.
+💻 Graduando em Ciência da Computação - 7º período;<br>🏫 Instituto Federal de Sergipe;<br>⭐ Entusiasta da tecnologia;<br>📚 Desenvolvendo um futuro melhor.
 
 
 ## 🌐 Sociais:
